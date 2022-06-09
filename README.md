@@ -129,7 +129,7 @@
 
 
 <p align="center" dir="auto">
-  <a href="https://www.codewars.com/users/shubhamsigdar" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/small" style="max-width: 100%;"></a>
+  <a href="https://github.com/shubhamsigdar1/codewars" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/small" style="max-width: 100%;"></a>
 </p>
 
 
