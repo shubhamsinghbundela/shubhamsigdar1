@@ -135,7 +135,7 @@
 	
 
 
-<h1 align="center">LeetCode Stats</h1>
+<h1 align="center">LeetCode</h1>
 	
 	
 <p align="center" dir="auto">
