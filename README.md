@@ -136,6 +136,8 @@
 
 
 <h1 align="center">LeetCode Stats</h1>
+	
+	
 <p align="center" dir="auto">
 	<a href="https://github.com/shubhamsigdar/leetcode-stats">
 		<img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=shubhamsigdar" width="400"/>
@@ -144,10 +146,6 @@
 
 
 
-<p align="center" dir="auto">
-  <a href="https://github.com/shubhamsigdar1/codewars" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/small" style="max-width: 100%;"></a>
-
-</p>
 
 
 
