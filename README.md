@@ -139,7 +139,7 @@
 	
 	
 <p align="center" dir="auto">
-	<a href="https://github.com/shubhamsigdar1/leetcode-stats">
+	<a href="https://github.com/shubhamsigdar1/-Leetcode">
 		<img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=shubhamsigdar" width="400"/>
         </a>
 </p>
