@@ -139,10 +139,10 @@
 	
 	
 <p align="center" dir="auto">
-<!-- 	<a href="https://github.com/shubhamsigdar1/Leetcode">
-		<img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=shubhamsigdar" width="400"/>
-        </a> -->
-	[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+	<a href="https://github.com/shubhamsigdar1/Leetcode">
+		<img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=shubhamsigdar&theme=dark" width="400"/>
+        </a>
+
 </p>
 
 
