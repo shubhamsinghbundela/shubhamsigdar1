@@ -135,15 +135,6 @@
 	
 
 
-<h1 align="center">LeetCode</h1>
-	
-	
-<p align="center" dir="auto">
-	<a href="https://github.com/shubhamsigdar1/Leetcode">
-		<img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=shubhamsigdar&theme=dark" width="400"/>
-        </a>
-
-</p>
 
 
 
