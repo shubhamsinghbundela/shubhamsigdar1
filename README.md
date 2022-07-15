@@ -12,12 +12,23 @@
 <a href="#/"><img src="https://img.shields.io/badge/ANGELLIST-000000?style=for-the-badge&logo=angellist&logoColor=FFFFFF" height=25></a>
 </p>
 
-<h3 align="center">Hi, I'm Shubham Sigdar, A software engineer and a freelance developer from India.<h3>
-
-<p align="center"> <a href='https://shubhamsigdar.netlify.app/'>my website</a> for more information! </p>
-<!-- <p align="Center">
-	I am a software engineer and a lifelong learner.
-</p> -->
+<table>
+  <tr>
+    <td valign="center">
+      <p>
+        👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
+        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
+        😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
+        🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
+        🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
+        💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
+      </p>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 <!-- See [my website](https://shubhamsigdar.netlify.app/) for more information! -->
 
 <h1 align="center">Projects</h1>
