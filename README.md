@@ -37,16 +37,12 @@
 <h1 align="center">Hashnode</h1>
 
 ## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
-
----
-
 <!-- HASHNODE_BLOG:START -->
 - [How I Build "Not So Great Calculator" Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev/how-i-build-not-so-great-calculator-using-html-css-javascript-cl5k9jf9301w69rnv7wb91q99)
 - [Background Picker Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev/background-picker-using-html-css-javascript-cl5hcfz9a01vqt4nv7oxu85zf)
 - [How I Build Daily Music Generator Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev/how-i-build-daily-music-generator-using-html-css-javascript-cl4s2gri705ro9vnvh6b3e9zt)
 <!-- HASHNODE_BLOG:END -->
 
----
 <h1 align="center">Projects</h1>
 <p align="center">
 All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built. Everything I build is open-source, and you are free to fork the repository and play around with the code. If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests — they are always welcome! 
