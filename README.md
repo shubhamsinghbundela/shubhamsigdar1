@@ -11,13 +11,13 @@
 <a href="#"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=googledrive&logoColor=000000" height=25></a>
 <a href="#/"><img src="https://img.shields.io/badge/ANGELLIST-000000?style=for-the-badge&logo=angellist&logoColor=FFFFFF" height=25></a>
 </p>
----
 
-### :man_technologist: About Me :
+
 <table>
   <tr>
     <td valign="center">
       <p>
+      ### :man_technologist: About Me :
         👀 &nbsp;I started my programming journey 2 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
         👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
         💼 &nbsp;Accepting new clients. Check out my <a href="https://shubhamsigdar.netlify.app/freelance.html">website.</a> <br/>
