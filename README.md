@@ -22,7 +22,7 @@
 	💼 Accepting new clients. Check out my [portfolio!](https://shubhamsigdar.netlify.app/)<br/>
         ✉️ You can contact me at [jacobegood@gmail.com](mailto:shubhamsigdar@gmail.com)<br/>
 	🔭 My tech stack is **MERN**<br/>
-        📝 I write blogs [here](https://shubhamsigdar.hashnode.dev/)
+        📝 I write blogs [here](https://shubhamsigdar.hashnode.dev/)<br/>
 	💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
       </p>
     </td>
