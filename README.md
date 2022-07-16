@@ -11,17 +11,14 @@
 <a href="#"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=googledrive&logoColor=000000" height=25></a>
 <a href="#/"><img src="https://img.shields.io/badge/ANGELLIST-000000?style=for-the-badge&logo=angellist&logoColor=FFFFFF" height=25></a>
 </p>
+---
 
+### :woman_technologist: About Me :
 <table>
   <tr>
     <td valign="center">
       <p>
-        👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
-        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
-        😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
-        🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
-        🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
-        💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
+        
       </p>
     </td>
     <td>
