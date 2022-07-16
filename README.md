@@ -25,7 +25,7 @@
       </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="<a href="https://app.daily.dev/shubhamsigdar"><img src="https://api.daily.dev/devcards/67abd919e1f0433184b5ebd3d83c4f60.png?r=c7l" width="400" alt="Shubham Sigdar's Dev Card"/></a>"/></a>
+     <a href="https://app.daily.dev/shubhamsigdar"><img src="https://api.daily.dev/devcards/67abd919e1f0433184b5ebd3d83c4f60.png?r=c7l" width="400" alt="Shubham Sigdar's Dev Card"/></a>
     </td>
   </tr>
 </table>
