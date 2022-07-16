@@ -28,8 +28,7 @@
       </p>
     </td>
     <td>
-    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shubhamsigdar1/shubhamsigdar1/blob/master/devcard.svg" width="400" alt="Shubham Sigdar's Dev Card"/></a>
-     
+       <a href="https://app.daily.dev/shubhamsigdar"><img src="https://github.com/shubhamsigdar1/shubhamsigdar1/blob/master/devcard.svg" width="400" alt="Shubham Sigdar's Dev Card"/></a>
     </td>
   </tr>
 </table>
@@ -46,7 +45,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
       <h3 align="center">Cuisine Restaurant</h3>
         <br />
         <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/102561192/168475523-ead25589-119e-4df2-9cd9-d01bd126b14c.gif" width="100%" alt="Travel App"/>
+           <img src="https://user-images.githubusercontent.com/102561192/168475523-ead25589-119e-4df2-9cd9-d01bd126b14c.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
