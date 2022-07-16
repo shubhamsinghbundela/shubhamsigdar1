@@ -24,7 +24,7 @@
 	🚀 &nbsp;I write my projects blogs at <a href="https://shubhamsigdar.hashnode.dev/">hashnode.</a> <br/>
         🧠 &nbsp;I'm learning React.js, Node.js, Express.js, MongoDB,<br/>
 	📫 &nbsp;In my free time, I solve daily problems on <a href="https://www.codewars.com/users/shubhamsigdar">CodeWars</a>, <a href="https://leetcode.com/shubhamsigdar/"> LeetCode </a>and read tech articles daily at <a href="https://app.daily.dev/shubhamsigdar">dailydotdev.</a><br/>
-	💬 &nbsp;ask me about anything, i am happy to help;<br/>
+	💬 &nbsp;Ask me about anything, I am happy to help<br/>
 	⚡ &nbsp;Fun fact: I love Fitness.
       </p>
     </td>
