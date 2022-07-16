@@ -17,7 +17,7 @@
   <tr>
     <td valign="center">
       <p>
-      ### :man_technologist: About Me :
+       <h1>:man_technologist: About Me :</h1><br/>
         👀 &nbsp;I started my programming journey 2 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
         👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
         💼 &nbsp;Accepting new clients. Check out my <a href="https://shubhamsigdar.netlify.app/freelance.html">website.</a> <br/>
