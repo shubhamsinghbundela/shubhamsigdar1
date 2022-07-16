@@ -17,8 +17,8 @@
       <p>
         👀 &nbsp;I started my programming journey 3 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
         👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
-        💼 &nbsp;Accepting new clients. Check out my portfolio at https://shubhamsigdar.netlify.app/ <br/>
-        🚀 &nbsp;I write blogs [here](https://shubhamsigdar.hashnode.dev/)
+        💼 &nbsp;Accepting new clients. Check out my portfolio <br/>
+        🚀 &nbsp;I write blogs at @hashnode
         🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
         💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
       </p>
