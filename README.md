@@ -11,6 +11,9 @@
 <a href="#"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=googledrive&logoColor=000000" height=25></a>
 <a href="#/"><img src="https://img.shields.io/badge/ANGELLIST-000000?style=for-the-badge&logo=angellist&logoColor=FFFFFF" height=25></a>
 </p>
+---
+
+### :man_technologist: About Me :
 <table>
   <tr>
     <td valign="center">
