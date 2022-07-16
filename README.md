@@ -15,10 +15,10 @@
   <tr>
     <td valign="center">
       <p>
-        👀 &nbsp; I started my programming journey 3 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
-        👯 &nbsp; I’m looking to collaborate on more open source projects.<br/>
-        💼 &nbsp; Accepting new clients. Check out my https://shubhamsigdar.netlify.app/ <br/>
-        🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
+        👀 &nbsp;I started my programming journey 3 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
+        👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
+        💼 &nbsp;Accepting new clients. Check out my portfolio at https://shubhamsigdar.netlify.app/ <br/>
+        🚀 &nbsp;I write blogs [here](https://shubhamsigdar.hashnode.dev/)
         🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
         💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
       </p>
