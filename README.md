@@ -15,7 +15,7 @@
   <tr>
     <td valign="center">
       <p>
-        👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
+        👀 &nbsp;I started my programming journey 3 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.I am currently looking for full time work and open to work on any interesting projects.<br/>
         ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
         😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
         🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
