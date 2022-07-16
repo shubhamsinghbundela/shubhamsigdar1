@@ -34,9 +34,9 @@
 </table>
 
 
-<h1 align="center">Hashnode</h1>
 
-## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
+
+## <h1 align="center"><a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Hashnode</h1>
 <!-- HASHNODE_BLOG:START -->
 - [How I Build "Not So Great Calculator" Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev/how-i-build-not-so-great-calculator-using-html-css-javascript-cl5k9jf9301w69rnv7wb91q99)
 - [Background Picker Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev/background-picker-using-html-css-javascript-cl5hcfz9a01vqt4nv7oxu85zf)
