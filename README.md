@@ -15,8 +15,8 @@
   <tr>
     <td valign="center">
       <p>
-        👀 &nbsp;I started my programming journey 3 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.
-        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
+        👀 &nbsp; I started my programming journey 3 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
+        👯 &nbsp; I’m looking to collaborate on more open source projects.
         😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
         🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
         🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
