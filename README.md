@@ -19,10 +19,11 @@
     <td valign="center">
       <p>
         I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br/>
-	* 💼 Accepting new clients. Check out my [portfolio!](https://shubhamsigdar.netlify.app/)<br/>
-        * ✉️ You can contact me at [jacobegood@gmail.com](mailto:shubhamsigdar@gmail.com)<br/>
-	* 🔭 My tech stack is **MERN**<br/>
-        * 📝 I write blogs [here](https://shubhamsigdar.hashnode.dev/)
+	💼 Accepting new clients. Check out my [portfolio!](https://shubhamsigdar.netlify.app/)<br/>
+        ✉️ You can contact me at [jacobegood@gmail.com](mailto:shubhamsigdar@gmail.com)<br/>
+	🔭 My tech stack is **MERN**<br/>
+        📝 I write blogs [here](https://shubhamsigdar.hashnode.dev/)
+	💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
       </p>
     </td>
     <td>
