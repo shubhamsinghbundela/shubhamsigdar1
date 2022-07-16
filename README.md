@@ -36,6 +36,16 @@
 ---
 
 <!-- HASHNODE_BLOG:START -->
+- [How I Build "Not So Great Calculator" Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev//how-i-build-not-so-great-calculator-using-html-css-javascript)
+- [Background Picker Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev//background-picker-using-html-css-javascript)
+- [How I Build Daily Music Generator Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev//how-i-build-daily-music-generator-using-html-css-javascript)
+- [What is Fintech?](https://shubhamsigdar.hashnode.dev//what-is-fintech)
+- [Role of Scrum Master](https://shubhamsigdar.hashnode.dev//role-of-scrum-master)
+- [Agile Model in Software Development Life Cycle.](https://shubhamsigdar.hashnode.dev//agile-model-in-software-development-life-cycle)
+- [Software Development Life Cycle(SDLC)](https://shubhamsigdar.hashnode.dev//software-development-life-cyclesdlc)
+- [How regular expressions works in JavaScript(regex)](https://shubhamsigdar.hashnode.dev//how-regular-expressions-works-in-javascriptregex)
+- [What Are the Most Popular SaaS Apps?](https://shubhamsigdar.hashnode.dev//what-are-the-most-popular-saas-apps)
+- [Indian SaaS Market](https://shubhamsigdar.hashnode.dev//indian-saas-market)
 <!-- HASHNODE_BLOG:END -->
 
 ---
