@@ -119,6 +119,8 @@ All my projects are available here on GitHub. You can view my top projects/contr
   </tr>
 </table>
 
+<h2 align="center"><a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a></h2>
+
 ---
 
 ## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a>Recent Blogs on Hashnode
