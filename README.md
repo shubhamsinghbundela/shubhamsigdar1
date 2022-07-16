@@ -35,8 +35,8 @@
 
 ---
 
-<!-- HASHNODE-BLOG-LIST:START -->
-<!-- HASHNODE-BLOG-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 ---
 <h1 align="center">Projects</h1>
