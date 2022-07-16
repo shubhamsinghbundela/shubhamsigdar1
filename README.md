@@ -20,7 +20,7 @@
         💼 &nbsp;Accepting new clients. Check out my <a href="https://shubhamsigdar.netlify.app/">website.</a> <br/>
 	🚀 &nbsp;I write my projects blogs at <a href="https://shubhamsigdar.hashnode.dev/">hashnode.</a> <br/>
         🧠 &nbsp;I'm learning React.js, Node.js, Express.js, MongoDB,<br/>
-	📫 &nbsp;In my free time, I solve problems on <a href="https://www.codewars.com/users/shubhamsigdar">CodeWars</a>,<a href="https://leetcode.com/shubhamsigdar/">LeetCode </a>and read tech articles daily at <a href="https://app.daily.dev/shubhamsigdar">dailydotdev.</a><br/>
+	📫 &nbsp;In my free time, I solve problems on <a href="https://www.codewars.com/users/shubhamsigdar">CodeWars</a>, <a href="https://leetcode.com/shubhamsigdar/"> LeetCode </a>and read tech articles daily at <a href="https://app.daily.dev/shubhamsigdar">dailydotdev.</a><br/>
 	⚡ &nbsp;Fun fact: I love Fitness.
       </p>
     </td>
