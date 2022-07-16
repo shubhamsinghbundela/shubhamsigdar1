@@ -31,6 +31,9 @@
 </table>
 
 <h1 align="center">Projects</h1>
+<p align="center">
+All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built. Everything I build is open-source, and you are free to fork the repository and play around with the code. If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests — they are always welcome! 
+</p>
 
 <table bordercolor="#66b2b2">
   
