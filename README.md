@@ -32,13 +32,11 @@
     </td>
   </tr>
 </table>
----
 
+---
 
 <!-- HASHNODE-BLOG-LIST:START -->
 <!-- HASHNODE-BLOG-LIST:END -->
-
-
 
 ---
 <h1 align="center">Projects</h1>
