@@ -119,9 +119,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
   </tr>
 </table>
 
-<h2 align="center"><a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a></h2>
-
----
+<h1 align="center"><a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a></h1>
 
 ## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a>Recent Blogs on Hashnode
 
@@ -131,7 +129,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
 - [How I Build Daily Music Generator Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev/how-i-build-daily-music-generator-using-html-css-javascript-cl4s2gri705ro9vnvh6b3e9zt)
 <!-- HASHNODE_BLOG:END -->
 
----
+
 	
 <h1 align="center">Technologies</h1>
 
