@@ -21,7 +21,7 @@
         👀 &nbsp;I started my programming journey 2 years ago with python.I then became interested in the front-end and developing full-stack applications. I found a                  great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
         👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
         💼 &nbsp;Accepting new clients. Check out my <a href="https://shubhamsigdar.netlify.app/freelance.html">website.</a> <br/>
-	🚀 &nbsp;I regularly write my projects blogs at <a href="https://shubhamsigdar.hashnode.dev/">hashnode.</a> <br/>
+	🚀 &nbsp;I regularly write my projects blogs on <a href="https://shubhamsigdar.hashnode.dev/">hashnode.</a> <br/>
         🧠 &nbsp;I'm learning React.js, Node.js, Express.js, MongoDB,<br/>
 	📫 &nbsp;In my free time, I solve daily problems on <a href="https://www.codewars.com/users/shubhamsigdar">CodeWars</a>, <a href="https://leetcode.com/shubhamsigdar/"> LeetCode </a>and read tech articles daily at <a href="https://app.daily.dev/shubhamsigdar">dailydotdev.</a><br/>
 	💬 &nbsp;Ask me about anything, I am happy to help.<br/>
