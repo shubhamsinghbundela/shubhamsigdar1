@@ -127,11 +127,11 @@ All my projects are available here on GitHub. You can view my top projects/contr
 ## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a>Recent Blogs on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
+- [How I Build Card Game using API and Local Storage](https://shubhamsigdar.hashnode.dev/how-i-build-card-game-using-api-and-local-storage-cl710gp2503mrc2nv5tdsbu5r)
 - [How I Build NASA's Picture Of The Day using HTML, CSS, JavaScript, and NASA's API](https://shubhamsigdar.hashnode.dev/how-i-build-nasas-picture-of-the-day-using-html-css-javascript-and-nasas-api-cl6y386el08b3vknvdt935x7l)
 - [Get Indian City and State name From Pincode using API](https://shubhamsigdar.hashnode.dev/get-indian-city-and-state-name-from-pincode-using-api-cl6ufwhz60hyogenv1j66fpot)
 - [How I Build Dog Generator using HTML, CSS, JavaScript, and  Dog CEO API.](https://shubhamsigdar.hashnode.dev/how-i-build-dog-generator-using-html-css-javascript-and-dog-ceo-api-cl6pu1qru02ozgenv2ramalb1)
 - [How I build  DOM manipulation project  using HTML, CSS3, JavaScript](https://shubhamsigdar.hashnode.dev/how-i-build-dom-manipulation-project-using-html-css3-javascript-cl6bohjao0h6ez0nvf1gfa9ht)
-- [How I Build "Not So Great Calculator" Using HTML, CSS, JavaScript](https://shubhamsigdar.hashnode.dev/how-i-build-not-so-great-calculator-using-html-css-javascript-cl5k9jf9301w69rnv7wb91q99)
 <!-- HASHNODE_BLOG:END -->
 
 ---
