@@ -127,11 +127,11 @@ All my projects are available here on GitHub. You can view my top projects/contr
 ## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a>Recent Blogs on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
+- [How to Accept User Input On Game Board Of Wordle using JavaScript](https://shubhamsigdar.hashnode.dev/how-to-accept-user-input-on-game-board-of-wordle-using-javascript-clbt9zee7000108lbdbiqeoxh)
+- [How I Create The Game Board(6*5) Of Wordle Using JavaScript](https://shubhamsigdar.hashnode.dev/how-i-create-the-game-board65-of-wordle-using-javascript-clbt4o776000408l89y5reubc)
 - [How I made a Tic-tac-toe Game using JavaScript](https://shubhamsigdar.hashnode.dev/how-i-made-a-tic-tac-toe-game-using-javascript-cl7f8rzkx09me1unv470u92qw)
 - [How I Build Book Tracker App using API and Local Storage](https://shubhamsigdar.hashnode.dev/how-i-build-book-tracker-app-using-api-and-local-storage-cl79occ1x00romsnv6hzi8x7p)
 - [How I Build Card Game using API and Local Storage](https://shubhamsigdar.hashnode.dev/how-i-build-card-game-using-api-and-local-storage-cl710gp2503mrc2nv5tdsbu5r)
-- [How I Build NASA's Picture Of The Day using HTML, CSS, JavaScript, and NASA's API](https://shubhamsigdar.hashnode.dev/how-i-build-nasas-picture-of-the-day-using-html-css-javascript-and-nasas-api-cl6y386el08b3vknvdt935x7l)
-- [Get Indian City and State name From Pincode using API](https://shubhamsigdar.hashnode.dev/get-indian-city-and-state-name-from-pincode-using-api-cl6ufwhz60hyogenv1j66fpot)
 <!-- HASHNODE_BLOG:END -->
 
 ---
