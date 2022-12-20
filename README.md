@@ -71,10 +71,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
             <img src="https://user-images.githubusercontent.com/107163260/208624440-6f0c5d6c-25b6-416b-9281-a79337eed2c5.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
-
         <p align="center">
-          
- 
   <a href="https://shubhamsigdar.hashnode.dev/" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
