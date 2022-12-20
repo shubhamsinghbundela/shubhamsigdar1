@@ -47,18 +47,18 @@ All my projects are available here on GitHub. You can view my top projects/contr
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Cuisine Restaurant</h3>
+      <h3 align="center">Wordle Game</h3>
         <br />
-        <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
-           <img src="https://user-images.githubusercontent.com/102561192/168475523-ead25589-119e-4df2-9cd9-d01bd126b14c.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://wordlegame1.netlify.app/">
+           <img src="https://user-images.githubusercontent.com/107163260/208592973-947b52b4-c2bd-449a-8b8d-fa91c102cef8.gif" width="100%" alt="Wordle Game"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Source%20restaurant%20website" target="_blank">
+  <a href="https://github.com/shubhamsigdar1/Wordle-Clone" target="_blank">
      <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>  
-  <a href="https://restaurant-sample-website.netlify.app/" target="_blank">
+  <a href="https://wordlegame1.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
@@ -68,7 +68,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
       <h3 align="center">My Blog's</h3>
         <br />
       <a target="_blank" href="https://shubhamsigdar.hashnode.dev/">
-            <img src="https://user-images.githubusercontent.com/107163260/208624440-6f0c5d6c-25b6-416b-9281-a79337eed2c5.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://user-images.githubusercontent.com/107163260/208624440-6f0c5d6c-25b6-416b-9281-a79337eed2c5.gif" width="100%"  alt="Blog"/>
         </a>
         <br />
         <p align="center">
