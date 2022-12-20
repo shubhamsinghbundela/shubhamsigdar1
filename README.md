@@ -89,7 +89,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
       <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="https://shubhamsigdar.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/107163260/208596712-d9ab9b66-5036-483c-b67c-b391275fe382.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
