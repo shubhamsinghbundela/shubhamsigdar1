@@ -65,18 +65,17 @@ All my projects are available here on GitHub. You can view my top projects/contr
          <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hair Salon Website</h3>
+      <h3 align="center">My Blog's</h3>
         <br />
-      <a target="_blank" href="https://hair-salon-website.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/102561192/168475938-3917a575-928f-4d37-9fe6-322c83127550.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://shubhamsigdar.hashnode.dev/">
+            <img src="https://user-images.githubusercontent.com/107163260/208624440-6f0c5d6c-25b6-416b-9281-a79337eed2c5.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
+
         <p align="center">
           
-  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Hair%20salon%20website" target="_blank">
-   <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://hair-salon-website.netlify.app/" target="_blank">
+ 
+  <a href="https://shubhamsigdar.hashnode.dev/" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
@@ -103,18 +102,18 @@ All my projects are available here on GitHub. You can view my top projects/contr
         <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dog Breed API</h3>
+      <h3 align="center">Veg Checker</h3>
         <br />
-        <a target="_blank" href="https://dogbreedapi.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://vegeterianchecker.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/107163260/208595821-6b76380f-611c-4c58-8a78-8fc1fe6ca21a.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/shubhamsigdar/Get-Dog-picture-by-breed" target="_blank">
+  <a href="https://github.com/shubhamsigdar1/veg-checker" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://dogbreedapi.netlify.app/" target="_blank">
+  <a href="https://vegeterianchecker.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
