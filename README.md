@@ -167,7 +167,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
 </p>
 
 
-<h1 align="center">Linkedin</h1>
+<!-- <h1 align="center">Linkedin</h1> -->
 
 <!-- 
 <p align="center" dir="auto">
