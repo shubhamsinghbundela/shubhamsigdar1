@@ -126,11 +126,11 @@ All my projects are available here on GitHub. You can view my top projects/contr
 ## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a>Recent Blogs on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
+- [Lets Understand Nodejs code as a Beginner](https://shubhamsigdar.hashnode.dev/lets-understand-nodejs-code-as-a-beginner-clc9xgdd8000608k3gv120mp9)
 - [Lets Install And Get Started With Node.JS](https://shubhamsigdar.hashnode.dev/lets-install-and-get-started-with-nodejs-clbzekxci000908kz3u5b0rc7)
 - [How to Accept User Input On Game Board Of Wordle using JavaScript](https://shubhamsigdar.hashnode.dev/how-to-accept-user-input-on-game-board-of-wordle-using-javascript-clbt9zee7000108lbdbiqeoxh)
 - [How I Create The Game Board(6*5) Of Wordle Using JavaScript](https://shubhamsigdar.hashnode.dev/how-i-create-the-game-board65-of-wordle-using-javascript-clbt4o776000408l89y5reubc)
 - [How I made a Tic-tac-toe Game using JavaScript](https://shubhamsigdar.hashnode.dev/how-i-made-a-tic-tac-toe-game-using-javascript-cl7f8rzkx09me1unv470u92qw)
-- [How I Build Book Tracker App using API and Local Storage](https://shubhamsigdar.hashnode.dev/how-i-build-book-tracker-app-using-api-and-local-storage-cl79occ1x00romsnv6hzi8x7p)
 <!-- HASHNODE_BLOG:END -->
 
 ---
