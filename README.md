@@ -47,10 +47,10 @@ All my projects are available here on GitHub. You can view my top projects/contr
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Wordle Game</h3>
+      <h3 align="center">Lift Simulation</h3>
         <br />
-        <a target="_blank" href="https://wordlegame1.netlify.app/">
-           <img src="https://user-images.githubusercontent.com/107163260/208592973-947b52b4-c2bd-449a-8b8d-fa91c102cef8.gif" width="100%" alt="Wordle Game"/>
+        <a target="_blank" href="https://lift-simulation-realdev.netlify.app/">
+           <img src="https://user-images.githubusercontent.com/107163260/210220190-a9655f16-702f-4215-a74b-53af884e0aa5.gif" width="100%" alt="Wordle Game"/>
         </a>
         <br />
         <p align="center">
