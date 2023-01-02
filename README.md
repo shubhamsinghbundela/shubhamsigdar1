@@ -50,15 +50,15 @@ All my projects are available here on GitHub. You can view my top projects/contr
       <h3 align="center">Lift Simulation</h3>
         <br />
         <a target="_blank" href="https://lift-simulation-realdev.netlify.app/">
-           <img src="https://user-images.githubusercontent.com/107163260/210220190-a9655f16-702f-4215-a74b-53af884e0aa5.gif" width="100%" alt="Wordle Game"/>
+           <img src="https://user-images.githubusercontent.com/107163260/210228970-baf06fdf-2d32-4245-b9cf-c68e897b48e7.gif" width="100%" alt="Wordle Game"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/shubhamsigdar1/Wordle-Clone" target="_blank">
+  <a href="https://github.com/shubhamsigdar1/Lift-simulation" target="_blank">
      <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>  
-  <a href="https://wordlegame1.netlify.app/" target="_blank">
+  <a href="https://lift-simulation-realdev.netlify.app/">
     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
