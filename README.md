@@ -20,7 +20,7 @@
       <span>👨‍💻 About Me : </span><br/>
         👀 &nbsp;Software developer with a deep interest in Development. Proven track record of creating and implementing successful 
 	         front web applications.I recently graduated(2022) with a B.Tech degree in Computer Science Engineering Degree and I 
-	         secured an 8.37 CGPA in my computer science degree.I found a great community with #100Devs, 
+	         secured an 8.37 CGPA in my computer science degree.I found a great community with #100Devs, RealDevSquad 
 	         Dev_matrix and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications.<br/>
         👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
         💼 &nbsp;Accepting new clients. Check out my <a href="https://shubhamsigdar.netlify.app/freelance.html">website.</a> <br/>
