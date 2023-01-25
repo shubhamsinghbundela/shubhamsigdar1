@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/shubhamsigdar/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height=25></a>
 <a href="https://twitter.com/shubhamsigdar"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
 <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://img.shields.io/badge/HASHNODE-000000?style=for-the-badge&logo=hashnode&logoColor=FFFFFF" height=25></a>
-<a href="https://github.com/shubhamsigdar1/Resume/raw/main/Shubham%20Kumar%20Singh-Software_Engineer.pdf"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=googledrive&logoColor=000000" height=25></a>
+<a href="https://github.com/shubhamsigdar1/Resume/raw/main/Shubham%20Kumar%20Singh%20Resume.pdf"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=googledrive&logoColor=000000" height=25></a>
 <a href="https://angel.co/u/shubham-sigdar"><img src="https://img.shields.io/badge/ANGELLIST-000000?style=for-the-badge&logo=angellist&logoColor=FFFFFF" height=25></a>
 </p>
 
