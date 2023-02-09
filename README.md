@@ -124,7 +124,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
 ## <a href="https://shubhamsigdar.hashnode.dev/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a>Recent Blogs on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
-- [How I Make 404 Page User Not Found Using  Ember.js Framework](https://shubhamsigdar.hashnode.dev/how-i-make-404-page-user-not-found-using-emberjs-framework-cldpze50l000b09mp11ds5y8c)
+- [How I Make 404 Page Route Using Ember.js](https://shubhamsigdar.hashnode.dev/how-i-make-404-page-route-using-emberjs-cldpze50l000b09mp11ds5y8c)
 - [How I Build Lift Simulation Using HTML, CSS, and JavaScript](https://shubhamsigdar.hashnode.dev/how-i-build-lift-simulation-using-html-css-and-javascript-clcem6dfa000508kz5smd1s2h)
 - [Lets Understand Nodejs code as a Beginner](https://shubhamsigdar.hashnode.dev/lets-understand-nodejs-code-as-a-beginner-clc9xgdd8000608k3gv120mp9)
 - [Lets Install And Get Started With Node.JS](https://shubhamsigdar.hashnode.dev/lets-install-and-get-started-with-nodejs-clbzekxci000908kz3u5b0rc7)
