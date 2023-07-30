@@ -19,7 +19,7 @@
       <p>
       <span>👨‍💻 About Me : </span><br/>
         👀 &nbsp;Software developer with a deep interest in Development. Proven track record of creating and implementing successful 
-	         Web applications.I am part of great community <a href="https://github.com/100devs">100Devs</a>, <a href="https://github.com/Real-Dev-Squad">RealDevSquad<a>, and <a href="https://github.com/DevMatrix1">Dev_matrix<a>.<br/>
+	         Web applications.I am part of great community, <a href="https://github.com/Real-Dev-Squad">RealDevSquad<a>.<br/>
         👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
         💼 &nbsp;Accepting new clients. Check out my <a href="https://shubhamsigdar.netlify.app/freelance.html">website.</a> <br/>
 	🚀 &nbsp;I regularly write my projects blogs on <a href="https://shubhamsigdar.hashnode.dev/">hashnode.</a> <br/>
