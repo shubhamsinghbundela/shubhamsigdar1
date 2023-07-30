@@ -22,7 +22,8 @@
 	         Web applications.I am part of great community, <a href="https://github.com/Real-Dev-Squad">RealDevSquad<a>.<br/>
         👯 &nbsp;I’m looking to collaborate on more open source projects.<br/>
         💼 &nbsp;Accepting new clients. Check out my <a href="https://shubhamsigdar.netlify.app/freelance.html">website.</a> <br/>
-	🚀 &nbsp;I regularly write my projects blogs on <a href="https://shubhamsigdar.hashnode.dev/">hashnode.</a> <br/>
+	🚀 &nbsp;I regularly write my projects blogs on <a href="https://shubhamsigdar.hashnode.dev/">hashnode</a> and thread on 
+           <a href="https://shubhamsigdar.hashnode.dev/">twitter</a>. <br/>
         🧠 &nbsp;I'm learning React.js, Node.js, Express.js, MongoDB,<br/>
 	📫 &nbsp;In my free time, I solve daily problems on <a href="https://github.com/shubhamsigdar1/Codewars">CodeWars</a>, <a href="https://github.com/shubhamsigdar1/Leetcode"> LeetCode </a>and read tech articles daily at <a href="https://app.daily.dev/shubhamsigdar">dailydotdev.</a><br/>
 	💬 &nbsp;Ask me about anything, I am happy to help.<br/>
