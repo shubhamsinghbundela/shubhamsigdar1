@@ -153,8 +153,20 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <a href="#"><img src="https://img.shields.io/badge/MDN-FFFFFF?&style=for-the-badge&logo=mdn&logoColor=000000" height=25></a>
 
 </p>
-	
-	
+
+<h1 align="center"> 📈 **Github Stats** </h1>
+
+<p align="center" dir="auto">
+<div float= "left">
+<a href="https://github.com/shubhamsigdar1">
+<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsigdar1&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+  </a>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsigdar1&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
+  </a>
+</div>
+</p>
+
 
 
 <h1 align="center">Codewars</h1>
@@ -164,7 +176,6 @@ All my projects are available here on GitHub. You can view my top projects/contr
   <a href="https://github.com/shubhamsigdar1/codewars" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/small" style="max-width: 100%;"></a>
 
 </p>
-
 
 <!-- <h1 align="center">Linkedin</h1> -->
 
