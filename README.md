@@ -138,11 +138,9 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <h1 align="center"> 📈 Github Stats </h1>
 
 <p align="center" dir="auto">
-<div float= "left">
-<a href="https://github.com/shubhamsigdar1">
-<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsigdar1&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+  <a href="https://github.com/shubhamsigdar1">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsigdar1&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
   </a>
-</div>
 </p>
 	
 <h1 align="center">Technologies</h1>
