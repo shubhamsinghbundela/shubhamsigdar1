@@ -139,7 +139,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
 
 <p align="center" dir="auto">
   <a href="https://github.com/shubhamsigdar1">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsigdar1&layout=compact&show_icons=true&include_all_commits=true&theme=black-white&count_private=true">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsigdar1&layout=compact&show_icons=true&include_all_commits=true&theme=white-black&count_private=true">
   </a>
 </p>
 	
