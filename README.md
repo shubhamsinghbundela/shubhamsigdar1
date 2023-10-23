@@ -91,7 +91,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
   <a href="https://github.com/shubhamsigdar/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://shubhamsigdar.netlify.app/" target="_blank">
+  <a href="https://shubhambanaut.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
