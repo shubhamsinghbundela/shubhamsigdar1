@@ -25,13 +25,13 @@
 	🚀 &nbsp;I regularly write my projects blogs on <a href="https://shubhamsigdar.hashnode.dev/">hashnode</a> and thread on 
            <a href="https://twitter.com/shubhambanaut">twitter</a>. <br/>
 <!--         🧠 &nbsp;I'm learning React.js, Node.js, Express.js, MongoDB,<br/> -->
-	📫 &nbsp;In my free time, I solve daily problems on <a href="https://github.com/shubhamsigdar1/Codewars">CodeWars</a>, <a href="https://github.com/shubhamsigdar1/Leetcode"> LeetCode </a>and read tech articles daily at <a href="https://app.daily.dev/shubhamsigdar">dailydotdev.</a><br/>
+	📫 &nbsp;In my free time, I solve daily problems on <a href="https://github.com/shubhamsigdar1/Codewars">CodeWars</a>, <a href="https://github.com/shubhamsigdar1/Leetcode"> LeetCode </a>and read tech articles daily at <a href="https://app.daily.dev/shubhambanaut">dailydotdev.</a><br/>
 	💬 &nbsp;Ask me about anything, I am happy to help.<br/>
 	⚡ &nbsp;Fun fact: I love to do exercise and fitness activity.
       </p>
     </td>
     <td>
-       <a href="https://app.daily.dev/shubhamsigdar"><img src="https://github.com/shubhamsigdar1/shubhamsigdar1/blob/main/devcard.svg" width="400" alt="Shubham Sigdar's Dev Card"/></a>
+       <a href="https://app.daily.dev/shubhambanaut"><img src="https://github.com/shubhamsigdar1/shubhamsigdar1/blob/main/devcard.svg" width="400" alt="Shubham Sigdar's Dev Card"/></a>
     </td>
   </tr>
 </table>
